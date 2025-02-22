@@ -8,7 +8,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # The following line mentions the developer of the application.
 # Changing the name or any information of developer is not allowed.
 authors:
-  - Shivam Goyal <shivamgoyal1899@gmail.com> / <GitHub @ShivamGoyal1899>
+  - Shivam Goyal
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
